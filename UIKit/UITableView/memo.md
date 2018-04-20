@@ -5,7 +5,7 @@
 func dequeueReusableCell(withIdentifier identifier: String) -> UITableViewCell?
 ```
 
-``` .swit
+``` .swift
 func dequeueReusableCell(withIdentifier identifier: String, 
                      for indexPath: IndexPath) -> UITableViewCell
 ```
