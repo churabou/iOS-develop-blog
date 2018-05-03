@@ -4,3 +4,8 @@
 |---|---|
 |![](url1)|![](url2)
 ```
+
+
+```
+ffmpeg -i file.mov -vf scale=320:-1 -r 10 file.gif
+```
